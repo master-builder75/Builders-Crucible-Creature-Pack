@@ -1,3 +1,15 @@
-2026/05/21-18:04:28.146846 f217057af020 Recovering log #10
-2026/05/21-18:04:28.152470 f217057af020 Delete type=3 #6
-2026/05/21-18:04:28.152507 f217057af020 Delete type=0 #10
+2026/05/21-19:00:26.284966 f217057af020 Recovering log #21
+2026/05/21-19:00:26.290318 f217057af020 Delete type=3 #19
+2026/05/21-19:00:26.290347 f217057af020 Delete type=0 #21
+2026/05/21-20:12:22.186404 f216ef7ef020 Level-0 table #26: started
+2026/05/21-20:12:22.189508 f216ef7ef020 Level-0 table #26: 26222 bytes OK
+2026/05/21-20:12:22.191919 f216ef7ef020 Delete type=0 #24
+2026/05/21-20:12:22.195191 f216ef7ef020 Manual compaction at level-0 from '!actors!01Ph8Zpl3CFjH0Lw' @ 72057594037927935 : 1 .. '!folders!zEv6JkNykgNKook4' @ 0 : 0; will stop at (end)
+2026/05/21-20:12:22.199458 f216ef7ef020 Manual compaction at level-1 from '!actors!01Ph8Zpl3CFjH0Lw' @ 72057594037927935 : 1 .. '!folders!zEv6JkNykgNKook4' @ 0 : 0; will stop at '!actors.items!ILntITyo1gFGR78W.runeLightning000' @ 4355 : 1
+2026/05/21-20:12:22.199467 f216ef7ef020 Compacting 1@1 + 1@2 files
+2026/05/21-20:12:22.212605 f216ef7ef020 Generated table #27@1: 1099 keys, 888443 bytes
+2026/05/21-20:12:22.212622 f216ef7ef020 Compacted 1@1 + 1@2 files => 888443 bytes
+2026/05/21-20:12:22.214699 f216ef7ef020 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/05/21-20:12:22.214854 f216ef7ef020 Delete type=2 #12
+2026/05/21-20:12:22.214989 f216ef7ef020 Delete type=2 #26
+2026/05/21-20:12:22.218604 f216ef7ef020 Manual compaction at level-1 from '!actors.items!ILntITyo1gFGR78W.runeLightning000' @ 4355 : 1 .. '!folders!zEv6JkNykgNKook4' @ 0 : 0; will stop at (end)
