@@ -1,0 +1,105 @@
+{
+  "id": "builders-crucible-creature-pack",
+  "title": "Builders Crucible Creature Pack",
+  "version": "1.0.0",
+  "manifest": "https://github.com/master-builder75/Builders-Crucible-Creature-Pack/releases/latest/download/module.json",
+  "download": "https://github.com/master-builder75/Builders-Crucible-Creature-Pack/releases/download/1.0.0/module.zip",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "description": "<p>A compendium of Crucible creatures.</p>",
+  "authors": [
+    {
+      "name": "Master_Builder75",
+      "email": "avrychyn@gmail.com",
+      "url": "https://discord.gg/v6QynTbsj",
+      "discord": "master_builder75",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "creatures",
+      "label": "Creatures",
+      "path": "packs/creatures",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "crucible",
+      "flags": {}
+    },
+    {
+      "name": "taxonomies",
+      "label": "Taxonomies",
+      "path": "packs/taxonomies",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "crucible",
+      "flags": {}
+    },
+    {
+      "name": "archetypes",
+      "label": "Archetypes",
+      "path": "packs/archetypes",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "crucible",
+      "flags": {}
+    },
+    {
+      "name": "monster-equipment",
+      "label": "Monster Equipment",
+      "path": "packs/monster-equipment",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "crucible",
+      "flags": {}
+    },
+    {
+      "name": "talents",
+      "label": "Talents",
+      "path": "packs/talents",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "crucible",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "crucible",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "packFolders": [
+  {
+    "name": "Builders Crucible Creatures",
+    "sorting": "m",
+    "packs": ["creatures", "taxonomies", "archetypes", "monster-equipment", "talents"],
+    "folders": [
+    ]
+  }
+],
+  "action": "manageModule"
+}
