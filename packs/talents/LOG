@@ -1,8 +1,15 @@
-2026/05/21-23:45:11.852700 f21704f9f020 Recovering log #35
-2026/05/21-23:45:11.858241 f21704f9f020 Delete type=3 #33
-2026/05/21-23:45:11.858272 f21704f9f020 Delete type=0 #35
-2026/05/22-00:21:15.544182 f216ef7ef020 Level-0 table #40: started
-2026/05/22-00:21:15.544203 f216ef7ef020 Level-0 table #40: 0 bytes OK
-2026/05/22-00:21:15.546114 f216ef7ef020 Delete type=0 #38
-2026/05/22-00:21:15.555027 f216ef7ef020 Manual compaction at level-0 from '!folders!9hrBfyHnuSm9D6y5' @ 72057594037927935 : 1 .. '!items!zU1aRxiACNfbADR1' @ 0 : 0; will stop at (end)
-2026/05/22-00:21:15.559537 f216ef7ef020 Manual compaction at level-1 from '!folders!9hrBfyHnuSm9D6y5' @ 72057594037927935 : 1 .. '!items!zU1aRxiACNfbADR1' @ 0 : 0; will stop at (end)
+2026/05/22-16:50:55.690247 f298fb7ef020 Recovering log #42
+2026/05/22-16:50:55.695632 f298fb7ef020 Delete type=0 #42
+2026/05/22-16:50:55.695709 f298fb7ef020 Delete type=3 #41
+2026/05/22-19:48:23.619886 f298f97af020 Level-0 table #46: started
+2026/05/22-19:48:23.623221 f298f97af020 Level-0 table #46: 11625 bytes OK
+2026/05/22-19:48:23.625899 f298f97af020 Delete type=0 #44
+2026/05/22-19:48:23.640860 f298f97af020 Manual compaction at level-0 from '!folders!9hrBfyHnuSm9D6y5' @ 72057594037927935 : 1 .. '!items.effects!faAiF5FlKnX1S1kh.sunlightWeakness' @ 0 : 0; will stop at (end)
+2026/05/22-19:48:23.640927 f298f97af020 Manual compaction at level-1 from '!folders!9hrBfyHnuSm9D6y5' @ 72057594037927935 : 1 .. '!items.effects!faAiF5FlKnX1S1kh.sunlightWeakness' @ 0 : 0; will stop at '!items.effects!faAiF5FlKnX1S1kh.sunlightWeakness' @ 65 : 1
+2026/05/22-19:48:23.640931 f298f97af020 Compacting 1@1 + 1@2 files
+2026/05/22-19:48:23.643432 f298f97af020 Generated table #47@1: 43 keys, 22061 bytes
+2026/05/22-19:48:23.643448 f298f97af020 Compacted 1@1 + 1@2 files => 22061 bytes
+2026/05/22-19:48:23.645117 f298f97af020 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/05/22-19:48:23.645188 f298f97af020 Delete type=2 #28
+2026/05/22-19:48:23.645283 f298f97af020 Delete type=2 #46
+2026/05/22-19:48:23.654324 f298f97af020 Manual compaction at level-1 from '!items.effects!faAiF5FlKnX1S1kh.sunlightWeakness' @ 65 : 1 .. '!items.effects!faAiF5FlKnX1S1kh.sunlightWeakness' @ 0 : 0; will stop at (end)
