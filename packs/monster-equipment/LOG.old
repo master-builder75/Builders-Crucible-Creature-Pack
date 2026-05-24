@@ -1,3 +1,24 @@
-2026/05/22-01:54:52.335952 f21704f9f020 Recovering log #39
-2026/05/22-01:54:52.341256 f21704f9f020 Delete type=0 #39
-2026/05/22-01:54:52.341285 f21704f9f020 Delete type=3 #37
+2026/05/24-05:24:03.642057 ff2f4b6ee020 Recovering log #115
+2026/05/24-05:24:03.643509 ff2f4b6ee020 Level-0 table #117: started
+2026/05/24-05:24:03.646421 ff2f4b6ee020 Level-0 table #117: 17735 bytes OK
+2026/05/24-05:24:03.650794 ff2f4b6ee020 Delete type=0 #115
+2026/05/24-05:24:03.650836 ff2f4b6ee020 Delete type=3 #113
+2026/05/24-05:24:59.182856 ff2f49431020 Level-0 table #120: started
+2026/05/24-05:24:59.182881 ff2f49431020 Level-0 table #120: 0 bytes OK
+2026/05/24-05:24:59.185559 ff2f49431020 Delete type=0 #118
+2026/05/24-05:24:59.188259 ff2f49431020 Manual compaction at level-0 from '!folders!YIcx9dszMS1SdcFV' @ 72057594037927935 : 1 .. '!items.effects!5jpiIfrlQS33lheb.poisonDmg0000000' @ 0 : 0; will stop at '!items!OyWxju4QRbS1Bc1Y' @ 57 : 1
+2026/05/24-05:24:59.188270 ff2f49431020 Compacting 2@0 + 0@1 files
+2026/05/24-05:24:59.190428 ff2f49431020 Generated table #121@0: 15 keys, 5297 bytes
+2026/05/24-05:24:59.190444 ff2f49431020 Compacted 2@0 + 0@1 files => 5297 bytes
+2026/05/24-05:24:59.192110 ff2f49431020 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/24-05:24:59.192177 ff2f49431020 Delete type=2 #114
+2026/05/24-05:24:59.192229 ff2f49431020 Delete type=2 #117
+2026/05/24-05:24:59.206919 ff2f49431020 Manual compaction at level-0 from '!items!OyWxju4QRbS1Bc1Y' @ 57 : 1 .. '!items.effects!5jpiIfrlQS33lheb.poisonDmg0000000' @ 0 : 0; will stop at (end)
+2026/05/24-05:24:59.207007 ff2f49431020 Manual compaction at level-1 from '!folders!YIcx9dszMS1SdcFV' @ 72057594037927935 : 1 .. '!items.effects!5jpiIfrlQS33lheb.poisonDmg0000000' @ 0 : 0; will stop at '!items.effects!5jpiIfrlQS33lheb.poisonDmg0000000' @ 127 : 1
+2026/05/24-05:24:59.207011 ff2f49431020 Compacting 1@1 + 1@2 files
+2026/05/24-05:24:59.209830 ff2f49431020 Generated table #122@1: 44 keys, 13550 bytes
+2026/05/24-05:24:59.209847 ff2f49431020 Compacted 1@1 + 1@2 files => 13550 bytes
+2026/05/24-05:24:59.211710 ff2f49431020 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/05/24-05:24:59.211787 ff2f49431020 Delete type=2 #48
+2026/05/24-05:24:59.211883 ff2f49431020 Delete type=2 #121
+2026/05/24-05:24:59.222626 ff2f49431020 Manual compaction at level-1 from '!items.effects!5jpiIfrlQS33lheb.poisonDmg0000000' @ 127 : 1 .. '!items.effects!5jpiIfrlQS33lheb.poisonDmg0000000' @ 0 : 0; will stop at (end)

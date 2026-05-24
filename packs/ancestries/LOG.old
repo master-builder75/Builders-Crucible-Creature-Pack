@@ -1,3 +1,23 @@
-2026/05/22-01:54:52.351506 f21704f9f020 Recovering log #12
-2026/05/22-01:54:52.357052 f21704f9f020 Delete type=0 #12
-2026/05/22-01:54:52.357081 f21704f9f020 Delete type=3 #10
+2026/05/24-05:24:03.673137 ff2f4a6ce020 Recovering log #86
+2026/05/24-05:24:03.673929 ff2f4a6ce020 Level-0 table #88: started
+2026/05/24-05:24:03.676465 ff2f4a6ce020 Level-0 table #88: 3207 bytes OK
+2026/05/24-05:24:03.683005 ff2f4a6ce020 Delete type=0 #86
+2026/05/24-05:24:03.683038 ff2f4a6ce020 Delete type=3 #85
+2026/05/24-05:24:59.216843 ff2f49431020 Level-0 table #91: started
+2026/05/24-05:24:59.216871 ff2f49431020 Level-0 table #91: 0 bytes OK
+2026/05/24-05:24:59.219745 ff2f49431020 Delete type=0 #89
+2026/05/24-05:24:59.222664 ff2f49431020 Manual compaction at level-0 from '!items!T8hIyCx3w7CXuSXS' @ 72057594037927935 : 1 .. '!items!v2oz475geYyLmxfB' @ 0 : 0; will stop at '!items!UqUZ6pM3wmo5pUJ2' @ 7 : 1
+2026/05/24-05:24:59.222670 ff2f49431020 Compacting 1@0 + 0@1 files
+2026/05/24-05:24:59.224904 ff2f49431020 Generated table #92@0: 1 keys, 1169 bytes
+2026/05/24-05:24:59.224917 ff2f49431020 Compacted 1@0 + 0@1 files => 1169 bytes
+2026/05/24-05:24:59.226744 ff2f49431020 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/24-05:24:59.226806 ff2f49431020 Delete type=2 #88
+2026/05/24-05:24:59.232716 ff2f49431020 Manual compaction at level-0 from '!items!UqUZ6pM3wmo5pUJ2' @ 7 : 1 .. '!items!v2oz475geYyLmxfB' @ 0 : 0; will stop at (end)
+2026/05/24-05:24:59.232771 ff2f49431020 Manual compaction at level-1 from '!items!T8hIyCx3w7CXuSXS' @ 72057594037927935 : 1 .. '!items!v2oz475geYyLmxfB' @ 0 : 0; will stop at '!items!UqUZ6pM3wmo5pUJ2' @ 20 : 1
+2026/05/24-05:24:59.232774 ff2f49431020 Compacting 1@1 + 1@2 files
+2026/05/24-05:24:59.235064 ff2f49431020 Generated table #93@1: 4 keys, 1552 bytes
+2026/05/24-05:24:59.235081 ff2f49431020 Compacted 1@1 + 1@2 files => 1552 bytes
+2026/05/24-05:24:59.236833 ff2f49431020 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/05/24-05:24:59.236901 ff2f49431020 Delete type=2 #20
+2026/05/24-05:24:59.237012 ff2f49431020 Delete type=2 #92
+2026/05/24-05:24:59.240721 ff2f49431020 Manual compaction at level-1 from '!items!UqUZ6pM3wmo5pUJ2' @ 20 : 1 .. '!items!v2oz475geYyLmxfB' @ 0 : 0; will stop at (end)
