@@ -1,15 +1,15 @@
-2026/05/25-04:08:52.910917 e482067cf020 Recovering log #149
-2026/05/25-04:08:52.916430 e482067cf020 Delete type=3 #147
-2026/05/25-04:08:52.916518 e482067cf020 Delete type=0 #149
-2026/05/25-05:27:34.325724 e481e7fff020 Level-0 table #154: started
-2026/05/25-05:27:34.329413 e481e7fff020 Level-0 table #154: 3799 bytes OK
-2026/05/25-05:27:34.331775 e481e7fff020 Delete type=0 #152
-2026/05/25-05:27:34.336032 e481e7fff020 Manual compaction at level-0 from '!folders!2bqv3Y6LFPbkZzgz' @ 72057594037927935 : 1 .. '!items.effects!faAiF5FlKnX1S1kh.sunlightWeakness' @ 0 : 0; will stop at (end)
-2026/05/25-05:27:34.340696 e481e7fff020 Manual compaction at level-1 from '!folders!2bqv3Y6LFPbkZzgz' @ 72057594037927935 : 1 .. '!items.effects!faAiF5FlKnX1S1kh.sunlightWeakness' @ 0 : 0; will stop at '!items!a8lThFAEs8W97m2O' @ 301 : 1
-2026/05/25-05:27:34.340704 e481e7fff020 Compacting 1@1 + 1@2 files
-2026/05/25-05:27:34.343396 e481e7fff020 Generated table #155@1: 64 keys, 33051 bytes
-2026/05/25-05:27:34.343414 e481e7fff020 Compacted 1@1 + 1@2 files => 33051 bytes
-2026/05/25-05:27:34.345124 e481e7fff020 compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/05/25-05:27:34.345194 e481e7fff020 Delete type=2 #124
-2026/05/25-05:27:34.345280 e481e7fff020 Delete type=2 #154
-2026/05/25-05:27:34.354234 e481e7fff020 Manual compaction at level-1 from '!items!a8lThFAEs8W97m2O' @ 301 : 1 .. '!items.effects!faAiF5FlKnX1S1kh.sunlightWeakness' @ 0 : 0; will stop at (end)
+2026/05/25-19:57:38.551024 f3c674f1f020 Recovering log #158
+2026/05/25-19:57:38.556542 f3c674f1f020 Delete type=3 #156
+2026/05/25-19:57:38.556610 f3c674f1f020 Delete type=0 #158
+2026/05/25-21:13:00.930605 f3c65f69e020 Level-0 table #163: started
+2026/05/25-21:13:00.934540 f3c65f69e020 Level-0 table #163: 7015 bytes OK
+2026/05/25-21:13:00.938544 f3c65f69e020 Delete type=0 #161
+2026/05/25-21:13:00.956734 f3c65f69e020 Manual compaction at level-0 from '!folders!2bqv3Y6LFPbkZzgz' @ 72057594037927935 : 1 .. '!items.effects!faAiF5FlKnX1S1kh.sunlightWeakness' @ 0 : 0; will stop at (end)
+2026/05/25-21:13:00.956784 f3c65f69e020 Manual compaction at level-1 from '!folders!2bqv3Y6LFPbkZzgz' @ 72057594037927935 : 1 .. '!items.effects!faAiF5FlKnX1S1kh.sunlightWeakness' @ 0 : 0; will stop at '!items!P8rX50JTwUxJlKWZ' @ 321 : 1
+2026/05/25-21:13:00.956787 f3c65f69e020 Compacting 1@1 + 1@2 files
+2026/05/25-21:13:00.959041 f3c65f69e020 Generated table #164@1: 65 keys, 34795 bytes
+2026/05/25-21:13:00.959060 f3c65f69e020 Compacted 1@1 + 1@2 files => 34795 bytes
+2026/05/25-21:13:00.960069 f3c65f69e020 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/05/25-21:13:00.960143 f3c65f69e020 Delete type=2 #155
+2026/05/25-21:13:00.960237 f3c65f69e020 Delete type=2 #163
+2026/05/25-21:13:00.968352 f3c65f69e020 Manual compaction at level-1 from '!items!P8rX50JTwUxJlKWZ' @ 321 : 1 .. '!items.effects!faAiF5FlKnX1S1kh.sunlightWeakness' @ 0 : 0; will stop at (end)
