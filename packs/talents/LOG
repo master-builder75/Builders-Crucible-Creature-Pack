@@ -1,8 +1,15 @@
-2026/05/24-05:25:53.525103 ff2f4a6ce020 Recovering log #121
-2026/05/24-05:25:53.530334 ff2f4a6ce020 Delete type=3 #118
-2026/05/24-05:25:53.530393 ff2f4a6ce020 Delete type=0 #121
-2026/05/24-05:40:00.622450 ff2f49431020 Level-0 table #128: started
-2026/05/24-05:40:00.623440 ff2f49431020 Level-0 table #128: 0 bytes OK
-2026/05/24-05:40:00.626126 ff2f49431020 Delete type=0 #126
-2026/05/24-05:40:00.633154 ff2f49431020 Manual compaction at level-0 from '!folders!9hrBfyHnuSm9D6y5' @ 72057594037927935 : 1 .. '!items.effects!faAiF5FlKnX1S1kh.sunlightWeakness' @ 0 : 0; will stop at (end)
-2026/05/24-05:40:00.637484 ff2f49431020 Manual compaction at level-1 from '!folders!9hrBfyHnuSm9D6y5' @ 72057594037927935 : 1 .. '!items.effects!faAiF5FlKnX1S1kh.sunlightWeakness' @ 0 : 0; will stop at (end)
+2026/05/25-04:08:52.910917 e482067cf020 Recovering log #149
+2026/05/25-04:08:52.916430 e482067cf020 Delete type=3 #147
+2026/05/25-04:08:52.916518 e482067cf020 Delete type=0 #149
+2026/05/25-05:27:34.325724 e481e7fff020 Level-0 table #154: started
+2026/05/25-05:27:34.329413 e481e7fff020 Level-0 table #154: 3799 bytes OK
+2026/05/25-05:27:34.331775 e481e7fff020 Delete type=0 #152
+2026/05/25-05:27:34.336032 e481e7fff020 Manual compaction at level-0 from '!folders!2bqv3Y6LFPbkZzgz' @ 72057594037927935 : 1 .. '!items.effects!faAiF5FlKnX1S1kh.sunlightWeakness' @ 0 : 0; will stop at (end)
+2026/05/25-05:27:34.340696 e481e7fff020 Manual compaction at level-1 from '!folders!2bqv3Y6LFPbkZzgz' @ 72057594037927935 : 1 .. '!items.effects!faAiF5FlKnX1S1kh.sunlightWeakness' @ 0 : 0; will stop at '!items!a8lThFAEs8W97m2O' @ 301 : 1
+2026/05/25-05:27:34.340704 e481e7fff020 Compacting 1@1 + 1@2 files
+2026/05/25-05:27:34.343396 e481e7fff020 Generated table #155@1: 64 keys, 33051 bytes
+2026/05/25-05:27:34.343414 e481e7fff020 Compacted 1@1 + 1@2 files => 33051 bytes
+2026/05/25-05:27:34.345124 e481e7fff020 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/05/25-05:27:34.345194 e481e7fff020 Delete type=2 #124
+2026/05/25-05:27:34.345280 e481e7fff020 Delete type=2 #154
+2026/05/25-05:27:34.354234 e481e7fff020 Manual compaction at level-1 from '!items!a8lThFAEs8W97m2O' @ 301 : 1 .. '!items.effects!faAiF5FlKnX1S1kh.sunlightWeakness' @ 0 : 0; will stop at (end)

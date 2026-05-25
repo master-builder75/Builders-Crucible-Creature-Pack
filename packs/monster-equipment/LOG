@@ -1,8 +1,8 @@
-2026/05/24-05:25:53.516030 ff2f4b6ee020 Recovering log #119
-2026/05/24-05:25:53.521422 ff2f4b6ee020 Delete type=3 #116
-2026/05/24-05:25:53.521487 ff2f4b6ee020 Delete type=0 #119
-2026/05/24-05:40:00.535728 ff2f49431020 Level-0 table #126: started
-2026/05/24-05:40:00.536271 ff2f49431020 Level-0 table #126: 0 bytes OK
-2026/05/24-05:40:00.538913 ff2f49431020 Delete type=0 #124
-2026/05/24-05:40:00.545112 ff2f49431020 Manual compaction at level-0 from '!folders!YIcx9dszMS1SdcFV' @ 72057594037927935 : 1 .. '!items.effects!5jpiIfrlQS33lheb.poisonDmg0000000' @ 0 : 0; will stop at (end)
-2026/05/24-05:40:00.552288 ff2f49431020 Manual compaction at level-1 from '!folders!YIcx9dszMS1SdcFV' @ 72057594037927935 : 1 .. '!items.effects!5jpiIfrlQS33lheb.poisonDmg0000000' @ 0 : 0; will stop at (end)
+2026/05/25-04:08:52.901558 e482057af020 Recovering log #147
+2026/05/25-04:08:52.906833 e482057af020 Delete type=3 #145
+2026/05/25-04:08:52.906895 e482057af020 Delete type=0 #147
+2026/05/25-05:27:34.279035 e481e7fff020 Level-0 table #152: started
+2026/05/25-05:27:34.279561 e481e7fff020 Level-0 table #152: 0 bytes OK
+2026/05/25-05:27:34.282892 e481e7fff020 Delete type=0 #150
+2026/05/25-05:27:34.282982 e481e7fff020 Manual compaction at level-0 from '!folders!YIcx9dszMS1SdcFV' @ 72057594037927935 : 1 .. '!items.effects!5jpiIfrlQS33lheb.poisonDmg0000000' @ 0 : 0; will stop at (end)
+2026/05/25-05:27:34.314239 e481e7fff020 Manual compaction at level-1 from '!folders!YIcx9dszMS1SdcFV' @ 72057594037927935 : 1 .. '!items.effects!5jpiIfrlQS33lheb.poisonDmg0000000' @ 0 : 0; will stop at (end)
