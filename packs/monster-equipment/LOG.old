@@ -1,8 +1,8 @@
-2026/05/25-19:56:36.554945 f3c65ffff020 Recovering log #151
-2026/05/25-19:56:36.559823 f3c65ffff020 Delete type=3 #149
-2026/05/25-19:56:36.559893 f3c65ffff020 Delete type=0 #151
-2026/05/25-19:57:31.654935 f3c65f69e020 Level-0 table #156: started
-2026/05/25-19:57:31.654949 f3c65f69e020 Level-0 table #156: 0 bytes OK
-2026/05/25-19:57:31.658311 f3c65f69e020 Delete type=0 #154
-2026/05/25-19:57:31.663634 f3c65f69e020 Manual compaction at level-0 from '!folders!YIcx9dszMS1SdcFV' @ 72057594037927935 : 1 .. '!items.effects!5jpiIfrlQS33lheb.poisonDmg0000000' @ 0 : 0; will stop at (end)
-2026/05/25-19:57:31.666819 f3c65f69e020 Manual compaction at level-1 from '!folders!YIcx9dszMS1SdcFV' @ 72057594037927935 : 1 .. '!items.effects!5jpiIfrlQS33lheb.poisonDmg0000000' @ 0 : 0; will stop at (end)
+2026/05/27-22:55:39.569470 fbf7dd15f020 Recovering log #175
+2026/05/27-22:55:39.574956 fbf7dd15f020 Delete type=3 #173
+2026/05/27-22:55:39.575013 fbf7dd15f020 Delete type=0 #175
+2026/05/27-22:57:26.021797 fbf79e5ff020 Level-0 table #180: started
+2026/05/27-22:57:26.021819 fbf79e5ff020 Level-0 table #180: 0 bytes OK
+2026/05/27-22:57:26.025265 fbf79e5ff020 Delete type=0 #178
+2026/05/27-22:57:26.033611 fbf79e5ff020 Manual compaction at level-0 from '!folders!YIcx9dszMS1SdcFV' @ 72057594037927935 : 1 .. '!items.effects!5jpiIfrlQS33lheb.poisonDmg0000000' @ 0 : 0; will stop at (end)
+2026/05/27-22:57:26.033654 fbf79e5ff020 Manual compaction at level-1 from '!folders!YIcx9dszMS1SdcFV' @ 72057594037927935 : 1 .. '!items.effects!5jpiIfrlQS33lheb.poisonDmg0000000' @ 0 : 0; will stop at (end)

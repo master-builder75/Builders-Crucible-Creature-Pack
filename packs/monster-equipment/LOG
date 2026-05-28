@@ -1,8 +1,15 @@
-2026/05/25-19:57:38.541926 f3c67572f020 Recovering log #155
-2026/05/25-19:57:38.547385 f3c67572f020 Delete type=3 #153
-2026/05/25-19:57:38.547452 f3c67572f020 Delete type=0 #155
-2026/05/25-21:13:00.927005 f3c65f69e020 Level-0 table #160: started
-2026/05/25-21:13:00.928183 f3c65f69e020 Level-0 table #160: 0 bytes OK
-2026/05/25-21:13:00.930509 f3c65f69e020 Delete type=0 #158
-2026/05/25-21:13:00.938659 f3c65f69e020 Manual compaction at level-0 from '!folders!YIcx9dszMS1SdcFV' @ 72057594037927935 : 1 .. '!items.effects!5jpiIfrlQS33lheb.poisonDmg0000000' @ 0 : 0; will stop at (end)
-2026/05/25-21:13:00.956751 f3c65f69e020 Manual compaction at level-1 from '!folders!YIcx9dszMS1SdcFV' @ 72057594037927935 : 1 .. '!items.effects!5jpiIfrlQS33lheb.poisonDmg0000000' @ 0 : 0; will stop at (end)
+2026/05/27-22:57:32.869169 fbf7dd15f020 Recovering log #179
+2026/05/27-22:57:32.874342 fbf7dd15f020 Delete type=3 #177
+2026/05/27-22:57:32.874395 fbf7dd15f020 Delete type=0 #179
+2026/05/28-02:55:56.288479 fbf79e5ff020 Level-0 table #184: started
+2026/05/28-02:55:56.290708 fbf79e5ff020 Level-0 table #184: 4155 bytes OK
+2026/05/28-02:55:56.293462 fbf79e5ff020 Delete type=0 #182
+2026/05/28-02:55:56.298602 fbf79e5ff020 Manual compaction at level-0 from '!folders!YIcx9dszMS1SdcFV' @ 72057594037927935 : 1 .. '!items.effects!5jpiIfrlQS33lheb.poisonDmg0000000' @ 0 : 0; will stop at (end)
+2026/05/28-02:55:56.328933 fbf79e5ff020 Manual compaction at level-1 from '!folders!YIcx9dszMS1SdcFV' @ 72057594037927935 : 1 .. '!items.effects!5jpiIfrlQS33lheb.poisonDmg0000000' @ 0 : 0; will stop at '!items!vZmOAXJx25VM1CFd' @ 173 : 1
+2026/05/28-02:55:56.328942 fbf79e5ff020 Compacting 1@1 + 1@2 files
+2026/05/28-02:55:56.331717 fbf79e5ff020 Generated table #185@1: 46 keys, 13608 bytes
+2026/05/28-02:55:56.331735 fbf79e5ff020 Compacted 1@1 + 1@2 files => 13608 bytes
+2026/05/28-02:55:56.333462 fbf79e5ff020 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/05/28-02:55:56.333546 fbf79e5ff020 Delete type=2 #122
+2026/05/28-02:55:56.333631 fbf79e5ff020 Delete type=2 #184
+2026/05/28-02:55:56.338588 fbf79e5ff020 Manual compaction at level-1 from '!items!vZmOAXJx25VM1CFd' @ 173 : 1 .. '!items.effects!5jpiIfrlQS33lheb.poisonDmg0000000' @ 0 : 0; will stop at (end)
